@@ -1,0 +1,3 @@
+cd Desktop
+cd self-hosted-minecraft-server
+sh main.sh

@@ -1,0 +1,8 @@
+version: "2"
+authtoken: "2HmB1VoWvBsi9ofAby4QgXIirpM_2WXgdRj5tUvK3QoLrJaWi"
+region: "us"
+tunnels:
+  minecraftServer:
+    addr: 25565
+    proto: tcp
+    inspect: false
